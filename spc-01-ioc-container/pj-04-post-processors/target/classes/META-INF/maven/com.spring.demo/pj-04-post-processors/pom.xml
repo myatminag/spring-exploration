@@ -7,5 +7,5 @@
 		<artifactId>spc-01-ioc-container</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>pj-02-ioc-annotation</artifactId>
+	<artifactId>pj-04-post-processors</artifactId>
 </project>

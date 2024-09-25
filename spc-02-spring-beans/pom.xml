@@ -3,7 +3,7 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.spring.demo</groupId>
-	<artifactId>spc-01-ioc-container</artifactId>
+	<artifactId>spc-02-spring-beans</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -12,6 +12,13 @@
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-context</artifactId>
 			<version>6.1.13</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-test</artifactId>
+			<version>6.1.13</version>
+			<scope>test</scope>
 		</dependency>
 
 		<dependency>
@@ -35,11 +42,6 @@
 		</plugins>
 	</build>
 	<modules>
-		<module>pj-01-ioc-container-xml</module>
-		<module>pj-02-ioc-annotation</module>
-		<module>pj-03-ioc-container-java</module>
-		
-		<module>pj-04-post-processors</module>
-		<module>pj-05-event-listeners</module>
+		<module>pj-01-beans-xml</module>
 	</modules>
 </project>
