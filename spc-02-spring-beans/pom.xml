@@ -43,5 +43,8 @@
 	</build>
 	<modules>
 		<module>pj-01-beans-xml</module>
+		<module>pj-02-beans-annotations</module>
+		<module>pj-03-beans-java</module>
+		<module>pj-04-bean-names-and-aliases</module>
 	</modules>
 </project>

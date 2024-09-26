@@ -1,0 +1,13 @@
+package com.spring.beans;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class MyServiceTwo implements MySerivce {
+
+	@Override
+	public String message() {
+		return "Hello From My Service Two";
+	}
+
+}
