@@ -1,15 +1,7 @@
 package com.spring.demo;
 
-public class MyService {
+public interface MyService {
 
-	private String name;
+	String getMessage();
 
-	public MyService(String name) {
-		super();
-		this.name = name;
-	}
-
-	public String getMessage() {
-		return "Hello Spring From %s".formatted(name);
-	}
 }
