@@ -38,5 +38,7 @@
 		<module>pj-02-di-java</module>
 		<module>pj-03-auto-wiring-xml</module>
 		<module>pj-04-auto-wiring-annotation</module>
+		<module>pj-05-auto-wiring-java</module>
+		<module>pj-06-common-errors</module>
 	</modules>
 </project>
