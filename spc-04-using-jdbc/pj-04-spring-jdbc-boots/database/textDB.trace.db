@@ -1,0 +1,30 @@
+2024-10-03 19:31:35.040231+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+INSERT INTO account(name, phone) VALUES (?, ?) [42104-224]
+2024-10-03 19:31:35.055078+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+INSERT INTO account(name, phone) VALUES (?, ?) [42104-224]
+2024-10-03 19:31:35.058284+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+INSERT INTO account(name, phone) VALUES (?, ?) [42104-224]
+2024-10-03 19:31:35.064582+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT COUNT(id) FROM account [42104-224]
+2024-10-03 19:31:35.069570+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
+2024-10-03 19:31:35.072936+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
+2024-10-03 19:31:35.075470+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
+2024-10-03 19:31:35.079442+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
+2024-10-03 19:31:35.081850+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
+2024-10-03 19:31:35.084596+06:30 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "ACCOUNT" not found (this database is empty); SQL statement:
+SELECT * FROM account WHERE id = ? [42104-224]
