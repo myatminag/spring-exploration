@@ -42,5 +42,6 @@
         <module>pj-02-spring-jdbc-xml</module>
         <module>pj-03-spring-jdbc-java</module>
         <module>pj-04-spring-jdbc-boots</module>
+        <module>pj-05-spring-jdbc-templates</module>
     </modules>
 </project>
