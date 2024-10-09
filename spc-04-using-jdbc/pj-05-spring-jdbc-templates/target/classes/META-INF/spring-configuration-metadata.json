@@ -1,0 +1,42 @@
+{
+  "groups": [
+    {
+      "name": "app",
+      "type": "com.spring.jdbc.ApplicationProperties",
+      "sourceType": "com.spring.jdbc.ApplicationProperties"
+    },
+    {
+      "name": "app.sql",
+      "type": "com.spring.jdbc.ApplicationProperties$RepositoryConfig",
+      "sourceType": "com.spring.jdbc.ApplicationProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "app.sql.district-group-by",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.jdbc.ApplicationProperties$RepositoryConfig"
+    },
+    {
+      "name": "app.sql.district-select",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.jdbc.ApplicationProperties$RepositoryConfig"
+    },
+    {
+      "name": "app.sql.division-group-by",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.jdbc.ApplicationProperties$RepositoryConfig"
+    },
+    {
+      "name": "app.sql.division-select",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.jdbc.ApplicationProperties$RepositoryConfig"
+    },
+    {
+      "name": "app.sql.township-select",
+      "type": "java.lang.String",
+      "sourceType": "com.spring.jdbc.ApplicationProperties$RepositoryConfig"
+    }
+  ],
+  "hints": []
+}
