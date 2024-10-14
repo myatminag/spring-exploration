@@ -8,7 +8,8 @@
     {
       "name": "app.sql",
       "type": "com.spring.jdbc.ApplicationProperties$RepositoryConfig",
-      "sourceType": "com.spring.jdbc.ApplicationProperties"
+      "sourceType": "com.spring.jdbc.ApplicationProperties",
+      "sourceMethod": "public com.spring.jdbc.ApplicationProperties.RepositoryConfig getSql() "
     }
   ],
   "properties": [
