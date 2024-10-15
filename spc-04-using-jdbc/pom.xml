@@ -44,5 +44,6 @@
         <module>pj-04-spring-jdbc-boots</module>
         <module>pj-05-spring-jdbc-templates</module>
         <module>pj-06-sale-management</module>
+        <module>pj-07-simple-jdbc-insert</module>
     </modules>
 </project>
